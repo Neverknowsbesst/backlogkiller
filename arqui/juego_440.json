@@ -1,0 +1,30 @@
+{
+    "appid": 440,
+    "name": "Team Fortress 2",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "owners": "50,000,000 .. 100,000,000",
+    "price": "0",
+    "tags": {
+        "Free to Play": 62714,
+        "Hero Shooter": 60984,
+        "Multiplayer": 22765,
+        "FPS": 15660,
+        "Shooter": 12711,
+        "Action": 12073,
+        "Class-Based": 9842,
+        "Team-Based": 9429,
+        "Funny": 9382,
+        "First-Person": 7917,
+        "Online Co-Op": 7315,
+        "Competitive": 7090,
+        "Cartoony": 7085,
+        "Trading": 6813,
+        "Co-op": 5819,
+        "Comedy": 5361,
+        "Robots": 4994,
+        "Tactical": 4001,
+        "Cartoon": 3950,
+        "Crafting": 3685
+    }
+}
