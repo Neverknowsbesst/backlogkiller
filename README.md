@@ -6,7 +6,7 @@ Backlogkiller es una aplicación que permite gestionar tu biblioteca de juegos e
 
 1. Clona este repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/tuusuario/backlogkiller.git
+    git clone https://github.com/neverknowsbesst/backlogkiller.git
     ```
 
 2. Navega a la carpeta del proyecto:
