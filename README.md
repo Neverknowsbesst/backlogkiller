@@ -22,11 +22,11 @@ Backlogkiller es una aplicación que permite gestionar tu biblioteca de juegos e
 4. Activa el entorno virtual:
     - En Windows:
       ```bash
-      .\venv\Scripts\activate
+      .\env\Scripts\activate
       ```
     - En macOS/Linux:
       ```bash
-      source venv/bin/activate
+      source env/bin/activate
       ```
 
 5. Instala las dependencias del proyecto:
